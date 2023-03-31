@@ -1,6 +1,6 @@
 ---
 title: ChatAvatar
-emoji: 💩
+emoji: 💩💩
 colorFrom: green
 colorTo: indigo
 sdk: static
